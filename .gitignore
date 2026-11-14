@@ -3,7 +3,6 @@
 *.log
 
 *.dev
-!FA.dev
 
 .vscode/
 sictools.jar
